@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "ui:composition": {
+            "attributes": {
+                "xmlns:ui": {},
+                "template": {},
+                "xmlns:p": {}
+            }
+        }
+    },
+    "attributes": {}
+}
