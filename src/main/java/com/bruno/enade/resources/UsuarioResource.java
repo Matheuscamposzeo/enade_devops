@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.resources;
+package com.ces.enade.resources;
 
-import com.bruno.enade.dao.UsuarioDAO;
-import com.bruno.enade.model.Usuario;
+import com.ces.enade.dao.UsuarioDAO;
+import com.ces.enade.model.Usuario;
 import javax.ws.rs.Path;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Path("usuario")
 public class UsuarioResource extends GenericResource<Usuario, UsuarioDAO> {

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.filtro;
+package com.ces.enade.filtro;
 
-import com.bruno.enade.model.Usuario;
-import com.bruno.enade.util.Constants;
+import com.ces.enade.model.Usuario;
+import com.ces.enade.util.Constants;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
@@ -22,7 +22,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @WebFilter(filterName = "AuthFilter", urlPatterns = {"*.xhtml"})
 public class AuthFilter implements Filter {

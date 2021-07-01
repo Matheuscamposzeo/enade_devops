@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.reports;
+package com.ces.enade.reports;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -24,11 +24,11 @@ import net.sf.jasperreports.engine.JasperReport;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class Relatorio {
 
-    private final String BASE_URL = "E:/Faculdade/9º período/Laboratório de Programação de Web Sites Dinâmicos/Enade/src/main/java/com/bruno/enade/reports/";
+    private final String BASE_URL = "E:/Faculdade/9º período/Laboratório de Programação de Web Sites Dinâmicos/Enade/src/main/java/com/ces/enade/reports/";
     private final HttpServletResponse response;
     private final FacesContext context;
     private ByteArrayOutputStream baos;

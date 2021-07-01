@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.controller;
+package com.ces.enade.controller;
 
-import com.bruno.enade.reports.Relatorio;
+import com.ces.enade.reports.Relatorio;
 import java.io.Serializable;
 import javax.enterprise.context.SessionScoped;
 import javax.inject.Named;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Named
 @SessionScoped

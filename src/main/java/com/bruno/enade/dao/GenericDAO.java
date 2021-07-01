@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.dao;
+package com.ces.enade.dao;
 
-import com.bruno.enade.util.PersistenceUtil;
+import com.ces.enade.util.PersistenceUtil;
 import java.io.Serializable;
 import java.util.List;
 import java.util.logging.Logger;
@@ -18,7 +18,7 @@ import javax.persistence.criteria.CriteriaQuery;
 
 /**
  *
- * @author bruno
+ * @author mathe
  * @param <T>
  * @param <I>
  */

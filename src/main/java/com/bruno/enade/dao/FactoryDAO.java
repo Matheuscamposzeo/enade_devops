@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.dao;
+package com.ces.enade.dao;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class FactoryDAO {
 

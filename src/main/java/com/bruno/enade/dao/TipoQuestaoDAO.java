@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.dao;
+package com.ces.enade.dao;
 
-import com.bruno.enade.model.TipoQuestao;
+import com.ces.enade.model.TipoQuestao;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class TipoQuestaoDAO extends GenericDAO<TipoQuestao, Integer> {
 

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.controller;
+package com.ces.enade.controller;
 
-import com.bruno.enade.dao.FactoryDAO;
-import com.bruno.enade.dao.TipoQuestaoDAO;
-import com.bruno.enade.model.TipoQuestao;
+import com.ces.enade.dao.FactoryDAO;
+import com.ces.enade.dao.TipoQuestaoDAO;
+import com.ces.enade.model.TipoQuestao;
 import javax.faces.event.ActionEvent;
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -20,7 +20,7 @@ import org.primefaces.event.RowEditEvent;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Named
 @SessionScoped

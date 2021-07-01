@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.test;
+package com.ces.test;
 
-import com.bruno.enade.model.TipoQuestao;
-import com.bruno.enade.resources.TipoQuestaoResource;
-import com.bruno.enade.util.Constants;
+import com.ces.enade.model.TipoQuestao;
+import com.ces.enade.resources.TipoQuestaoResource;
+import com.ces.enade.util.Constants;
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.Test;
@@ -16,7 +16,7 @@ import static org.mockito.Mockito.*;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class TipoQuestaoResourceTest {
 

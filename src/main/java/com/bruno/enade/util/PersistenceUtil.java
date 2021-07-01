@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.util;
+package com.ces.enade.util;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -12,7 +12,7 @@ import org.eclipse.persistence.sessions.Session;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class PersistenceUtil {
 

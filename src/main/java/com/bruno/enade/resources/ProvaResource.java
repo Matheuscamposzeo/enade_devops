@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.resources;
+package com.ces.enade.resources;
 
-import com.bruno.enade.dao.ProvaDAO;
-import com.bruno.enade.model.Prova;
+import com.ces.enade.dao.ProvaDAO;
+import com.ces.enade.model.Prova;
 import javax.ws.rs.Path;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Path("prova")
 public class ProvaResource extends GenericResource<Prova, ProvaDAO> {

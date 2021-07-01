@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.controller;
+package com.ces.enade.controller;
 
-import com.bruno.enade.dao.FactoryDAO;
-import com.bruno.enade.dao.ResultadoDAO;
-import com.bruno.enade.model.Resultado;
-import com.bruno.enade.model.Usuario;
-import com.bruno.enade.util.Constants;
+import com.ces.enade.dao.FactoryDAO;
+import com.ces.enade.dao.ResultadoDAO;
+import com.ces.enade.model.Resultado;
+import com.ces.enade.model.Usuario;
+import com.ces.enade.util.Constants;
 import javax.faces.event.ActionEvent;
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -21,7 +21,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Named
 @SessionScoped

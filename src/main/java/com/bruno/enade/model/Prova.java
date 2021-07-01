@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.model;
+package com.ces.enade.model;
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
@@ -31,7 +31,7 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 @Entity
 @Table(name = "Prova")

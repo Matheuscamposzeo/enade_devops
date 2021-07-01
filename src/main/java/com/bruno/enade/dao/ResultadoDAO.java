@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bruno.enade.dao;
+package com.ces.enade.dao;
 
-import com.bruno.enade.model.Resultado;
+import com.ces.enade.model.Resultado;
 import java.util.List;
 
 /**
  *
- * @author bruno
+ * @author mathe
  */
 public class ResultadoDAO extends GenericDAO<Resultado, Integer> {
 
